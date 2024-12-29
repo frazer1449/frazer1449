@@ -10,10 +10,10 @@
         <b>Optimal Trade Exit Algorithm (Cornell Quant Fund)</b>
         <p>Developed an algorithm to identify optimal selling points for market leaders and pump-and-dump stocks using the Relative Strength (RS) line. Backtested strategies on CSCO, NVDA, PLTR, ZM, BTC-USD, and presented findings at the Cornell Quant Fund symposium.</p>
     </li>
-    <li>
+<!--     <li>
         <b>Performance-Based Question Recommender (AlgoLink)</b>
         <p>Built a question-matching algorithm using weighted logistic regression to dynamically adjust difficulty based on user performance. Leveraged Python, Pandas, and NumPy for data processing and statistical analysis, improving accuracy in assessing user skills and interests.</p>
-    </li>
+    </li> -->
 </ul>
 
 <h2>👑 Self-Funded Swing Trading</h2>
