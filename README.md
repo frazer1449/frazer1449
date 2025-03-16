@@ -34,7 +34,7 @@
 <ul>
     <li>Develop expertise in futures and options day trading, build a trading community to formulate concrete gameplans and refine risk management strategies.
     </li>
-    <li>Enhancing technical skills in frontend and backend development through projects such as developing an energy-management app or creating a personal website.
+    <li>Enhancing technical skills in frontend and backend development through projects such as developing an energy-management app.
     </li>
 </ul>
 
