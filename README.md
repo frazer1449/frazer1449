@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jason — a software engineer and self-funded trader.
+<-- <h1>Hi, I'm Jason — a software engineer and self-funded trader.
 <h2>👨‍💻 Software Development & Quantitative Projects:</h2>
 
 <ul>
@@ -48,4 +48,5 @@
 
 <!--
 Jason Kim's GitHub profile
+-->
 -->
