@@ -16,7 +16,8 @@ A physics-based betting game simulating real-time Plinko mechanics and server-si
 
 ### 📓 Market Journal  
 **Tech Stack:** Spring Boot, Thymeleaf, H2  
-A personal trading journal web app to log trades, analyze mistakes, and refine strategies.  
+A personal trading journal web app I use to log trades, track setups, and record market thoughts in real time.
+While I started journaling recently, I’ve been trading for over 2.5 years and am now a consistently profitable trader. This tool helps me stay disciplined and refine my edge.
 🔗 [jasontrades.me](https://jasontrades.me)
 
 ### 📈 Options Trading Algorithm  
