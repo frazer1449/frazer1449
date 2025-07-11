@@ -33,7 +33,7 @@ Developed a weighted logistic regression model to match users with questions tha
 ## 📚 Daily Leetcode Grind
 
 Since **March 16, 2025**, I’ve been solving 1–2 problems per day from **Neetcode** and **Leetcode**, and documenting them in this repo:  
-🔗 [Daily Coding Practice Repo](https://github.com/frazer1449)
+🔗 [Daily Coding Practice Repo](https://github.com/frazer1449/leetcodedaily)
 
 ---
 
@@ -45,7 +45,4 @@ Since **March 16, 2025**, I’ve been solving 1–2 problems per day from **Neet
 [github]: https://github.com/frazer1449
 [linkedin]: https://www.linkedin.com/in/frazer10/
 
-<!--
-Jason Kim's GitHub profile
--->
 -->
